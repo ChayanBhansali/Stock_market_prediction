@@ -3,3 +3,6 @@ pandas
 numpy
 matplotlib
 seaborn
+finta
+tensorflow
+scikit-learn
